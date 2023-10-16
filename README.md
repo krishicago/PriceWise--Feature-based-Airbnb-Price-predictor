@@ -1,2 +1,3 @@
 # PriceWise--Feature-based-Airbnb-Price-predictor
-Focuses on the development of a robust feature-based model that harnesses the power of data and cutting-edge machine learning techniques. By incorporating various key factors such as location, property type, historical trends, and more, PriceWise aims to accurately predict Airbnb rental price
+
+In this comprehensive data analysis and prediction project, the objective was to gain insights into Airbnb listings and create predictive models for pricing. The project was carried out with a focus on data exploration, feature engineering, and model development. The primary goal was to provide valuable insights for property owners, investors, and potential guests seeking accommodation
